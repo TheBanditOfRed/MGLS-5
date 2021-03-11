@@ -9,10 +9,6 @@
 
 ## 11/03/2021
 
-Incorperated in the Blustery Day shader pack made by [Xilfian](https://twitter.com/Xilefian), download the original from [here](https://gist.github.com/felixjones/d5bec1ab0c83ee134fa43a142692a09b)
-
-━━━━━━━━━━━━━━━━
-
 Added 3D Beef
 
 Old:
@@ -20,3 +16,5 @@ Old:
 
 New:
 ![New](https://github.com/TheBanditOfRed/MGLS-5/blob/main/Texture%20Pack%20Versions/11.03.2021/1.%203D%20Beef/2021-03-11_10.07.49.png)
+
+━━━━━━━━━━━━━━━━
